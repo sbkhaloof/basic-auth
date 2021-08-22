@@ -1,13 +1,13 @@
 
 
 # Lab 06 : Basic-Auth
-##### Author : Ibrahim Khdairat 
+##### Author : Siham Khaloof 
 
-* [GitHub Repo Link](https://github.com/sbkhaloof/basic-auth)
+* [GitHub Repo Link](https://github.com/sbkhaloof/basic-auth/)
 
-* [Pull Request](https://github.com/Ibrahim-Khdairat/basic-auth/pull/1)
+* [Pull Request](https://github.com/sbkhaloof/basic-auth/pull/1)
 
-* [Heroku Link](https://ibrahim-basic-auth.herokuapp.com/) : https://ibrahim-basic-auth.herokuapp.com/
+* [Heroku Link](https://siham-basic-auth.herokuapp.com/) : https://siham-basic-auth.herokuapp.com/
 
 
 ## setup
@@ -16,7 +16,7 @@
 + POSTGRES_URI
 Endpoints:
 * ##### 1 -  `/status`
-https://siham-basic-auth.herokuapp.com/status
+https://siham-basic-auth.herokuapp.com//status
 Returns Object
 
 >{
@@ -48,7 +48,7 @@ Returns
 
 * ##### 3 -  `/signup`
 `using post method`
-https://ibrahim-basic-auth.herokuapp.com/signup
+https://siham-basic-auth.herokuapp.com/signup
 
 ***If the user not existed***
 Returns Object
