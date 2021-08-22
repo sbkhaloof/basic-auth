@@ -7,7 +7,7 @@
 
 * [Pull Request](https://github.com/sbkhaloof/basic-auth/pull/1)
 
-* [Heroku Link](https://siham-basic-auth.herokuapp.com/) : https://siham-basic-auth.herokuapp.com/
+* [Heroku Link](https://siham-basic-auth.herokuapp.com/) 
 
 
 ## setup
